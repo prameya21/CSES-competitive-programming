@@ -1,2 +1,2 @@
 # CSES-competitive-programming
-CSES introductory questions. Pythonn based
+CSES introductory questions. Python based
