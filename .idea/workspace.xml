@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30c3c927-12fa-42a7-97a4-84cb761c87f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TrailingZeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoinPiles.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -388,7 +388,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Python.TrailingZeroes">
+  <component name="RunManager" selected="Python.CoinPiles">
     <configuration name="BitSets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSES" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -423,6 +423,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitStrings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CoinPiles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSES" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CoinPiles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -473,34 +494,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TwoSets" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CSES" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TwoSets.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CoinPiles" />
         <item itemvalue="Python.TrailingZeroes" />
         <item itemvalue="Python.BitSets" />
         <item itemvalue="Python.BitStrings" />
         <item itemvalue="Python.MissingNumber" />
-        <item itemvalue="Python.TwoSets" />
       </list>
     </recent_temporary>
   </component>
@@ -527,44 +527,49 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="942" y="301" width="666" height="871" key="#TwoSets" timestamp="1595403677929">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
     <state x="942" y="301" width="666" height="871" key="#TwoSets/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595403677929" />
-    <state width="2514" height="253" key="GridCell.Tab.0.bottom" timestamp="1595478631598">
+    <state x="974" y="535" width="602" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595659207719">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="2514" height="253" key="GridCell.Tab.0.bottom/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595478631598" />
-    <state width="2514" height="253" key="GridCell.Tab.0.center" timestamp="1595478631598">
+    <state x="974" y="535" width="602" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595659207719" />
+    <state width="2514" height="253" key="GridCell.Tab.0.bottom" timestamp="1595659787155">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="2514" height="253" key="GridCell.Tab.0.center/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595478631598" />
-    <state width="2514" height="253" key="GridCell.Tab.0.left" timestamp="1595478631598">
+    <state width="2514" height="253" key="GridCell.Tab.0.bottom/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595659787155" />
+    <state width="2514" height="253" key="GridCell.Tab.0.center" timestamp="1595659787155">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="2514" height="253" key="GridCell.Tab.0.left/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595478631598" />
-    <state width="2514" height="253" key="GridCell.Tab.0.right" timestamp="1595478631598">
+    <state width="2514" height="253" key="GridCell.Tab.0.center/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595659787155" />
+    <state width="2514" height="253" key="GridCell.Tab.0.left" timestamp="1595659787154">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="2514" height="253" key="GridCell.Tab.0.right/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595478631598" />
-    <state width="2514" height="253" key="GridCell.Tab.1.bottom" timestamp="1595478631598">
+    <state width="2514" height="253" key="GridCell.Tab.0.left/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595659787154" />
+    <state width="2514" height="253" key="GridCell.Tab.0.right" timestamp="1595659787155">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="2514" height="253" key="GridCell.Tab.1.bottom/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595478631598" />
-    <state width="2514" height="253" key="GridCell.Tab.1.center" timestamp="1595478631598">
+    <state width="2514" height="253" key="GridCell.Tab.0.right/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595659787155" />
+    <state width="2514" height="253" key="GridCell.Tab.1.bottom" timestamp="1595659787155">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="2514" height="253" key="GridCell.Tab.1.center/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595478631598" />
-    <state width="2514" height="253" key="GridCell.Tab.1.left" timestamp="1595478631598">
+    <state width="2514" height="253" key="GridCell.Tab.1.bottom/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595659787155" />
+    <state width="2514" height="253" key="GridCell.Tab.1.center" timestamp="1595659787155">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="2514" height="253" key="GridCell.Tab.1.left/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595478631598" />
-    <state width="2514" height="253" key="GridCell.Tab.1.right" timestamp="1595478631598">
+    <state width="2514" height="253" key="GridCell.Tab.1.center/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595659787155" />
+    <state width="2514" height="253" key="GridCell.Tab.1.left" timestamp="1595659787155">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state width="2514" height="253" key="GridCell.Tab.1.right/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595478631598" />
+    <state width="2514" height="253" key="GridCell.Tab.1.left/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595659787155" />
+    <state width="2514" height="253" key="GridCell.Tab.1.right" timestamp="1595659787155">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="2514" height="253" key="GridCell.Tab.1.right/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1595659787155" />
     <state x="763" y="311" width="1024" height="852" key="SettingsEditor" timestamp="1595403668086">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
@@ -577,6 +582,11 @@
           <url>file://$PROJECT_DIR$/TrailingZeroes.py</url>
           <line>2</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CoinPiles.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
